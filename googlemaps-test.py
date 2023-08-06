@@ -1,6 +1,4 @@
 
-key = "AIzaSyCzxGKoK8QsosvU9aBD473_W173NoADQdI"
-
 import googlemaps
 from datetime import datetime
 
